@@ -21,7 +21,7 @@ I am Alhussain Aldhahli
 - 👯 I’m looking to collaborate on  open project in spring , asp.net , django or any web framework using react or angular as front end. 
 - 📫 How to reach me: <br/>
       - <a href="https://www.linkedin.com/in/alhussain-aldhuhli-3394b413a/">LinkedIn</a><br/>
-      - <a href="https://www.alhussain.me" target=”_blank”>Portfolio</a>
+      - <a href="https://www.alhussain.me" target="_blank" rel="noopener noreferrer">Portfolio</a>
 <br/>
 <a href="https://app.daily.dev/alhussain0"><img src="https://github.com/alhussain0/alhussain0/blob/main/devcard.svg" width="400" alt="AL hussain ALdhuhli's Dev Card"/></a>
 
