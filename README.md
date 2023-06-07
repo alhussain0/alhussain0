@@ -20,7 +20,7 @@ I am Alhussain Aldhahli
 - 🔭 I’m currently working as Full stack developer in SQU - Muscat,Oman.
 - 👯 I’m looking to collaborate on  open project in spring , asp.net , django or any web framework using react or angular as front end. 
 - 📫 How to reach me: <br/>
-      - <a href="https://www.linkedin.com/in/alhussain-aldhuhli-3394b413a/">LinkedIn</a><br/>
+      - <a href="https://www.linkedin.com/in/alhussain0/">LinkedIn</a><br/>
       - <a href="https://www.alhussain.me" target="_blank" rel="noopener noreferrer">Portfolio</a> 
       <br/>( Use CTRL / CMD + click to open in new tab )
 <br/>
