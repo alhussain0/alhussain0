@@ -24,5 +24,5 @@ I am Alhussain Aldhahli
       - <a href="https://www.alhussain.me" target="_blank" rel="noopener noreferrer">Portfolio</a> 
       <br/>( Use CTRL / CMD + click to open in new tab )
 <br/>
-<a href="https://app.daily.dev/alhussain0"><img src="https://github.com/alhussain0/alhussain0/blob/main/devcard.svg" width="400" alt="AL hussain ALdhuhli's Dev Card"/></a>
+<a href="https://app.daily.dev/alhussain0"><img src="https://api.daily.dev/devcards/v2/GAkFlY3coMa75SqTJFRjR.png?r=yjw&type=wide" width="652" alt="Alhussain Aldhahli's Dev Card"/></a>
 
